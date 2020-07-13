@@ -14,7 +14,7 @@ public class FizzBuzz {
 		if (number % 5 == 0) {
 			return "Buzz";
 		}
-
+		//translates into a string
 		return "" + number;
 	}
 
